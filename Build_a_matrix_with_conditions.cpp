@@ -1,5 +1,5 @@
 /************************************************************ C++ ************************************************************/
-//Approach-1 (Topological Sorting using DFS)
+//Approach-(Topological Sorting using DFS)
 //T.C : O(k*^2 + n)
 //S.C : O(k*^2 + n)
 class Solution {
